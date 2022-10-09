@@ -1,3 +1,5 @@
 10/8/2022
     javascript cerf done
     data visualization done 2 modules
+10/9/2022
+    started on  following a python api video https://www.youtube.com/watch?v=0sOvCWFmrtA&t=0s&ab_channel=freeCodeCamp.org
