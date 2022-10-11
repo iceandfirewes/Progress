@@ -3,3 +3,5 @@
     data visualization done 2 modules
 10/9/2022
     started on  following a python api video https://www.youtube.com/watch?v=0sOvCWFmrtA&t=0s&ab_channel=freeCodeCamp.org
+10/11/2022
+    api video to 3h:56
