@@ -13,4 +13,6 @@
     api video to 6:49
 10/15/2022
     api video to 7:15
+10/16/2022
+    api video to 7:36 and started learning about cloud deployment (heroku)
     
