@@ -15,4 +15,8 @@
     api video to 7:15
 10/16/2022
     api video to 7:36 and started learning about cloud deployment (heroku)
+10/17/2022
+    made a password generator and deployed it to heroku
+    https://github.com/iceandfirewes/Password-gen
+    https://passwordgen-iceandfirewes.herokuapp.com/docs
     
