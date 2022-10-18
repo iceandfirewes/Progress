@@ -19,4 +19,6 @@
     made a password generator and deployed it to heroku
     https://github.com/iceandfirewes/Password-gen
     https://passwordgen-iceandfirewes.herokuapp.com/docs
+10/18/2022
+    started looking at manim. maybe will be used for a website 
     
