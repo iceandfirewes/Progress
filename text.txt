@@ -21,4 +21,7 @@
     https://passwordgen-iceandfirewes.herokuapp.com/docs
 10/18/2022
     started looking at manim. maybe will be used for a website 
+10/19/2022
+    learned about manim and made an for showing how to calculate the area of a triangle
+    need to look at how to show video on github
     
