@@ -24,4 +24,6 @@
 10/19/2022
     learned about manim and made an for showing how to calculate the area of a triangle
     need to look at how to show video on github
+10/20/2022
+    start looking into jquerry
     
