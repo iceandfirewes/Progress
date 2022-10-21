@@ -26,4 +26,6 @@
     need to look at how to show video on github
 10/20/2022
     start looking into jquerry
+10/21/2022
+    jquery
     
