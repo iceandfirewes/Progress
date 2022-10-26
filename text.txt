@@ -28,4 +28,6 @@
     start looking into jquerry
 10/21/2022
     jquery
+10/26/2022
+    learning react with https://www.youtube.com/watch?v=bMknfKXIFA8&t=2532s
     
