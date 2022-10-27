@@ -30,4 +30,6 @@
     jquery
 10/26/2022
     learning react with https://www.youtube.com/watch?v=bMknfKXIFA8&t=2532s
+10/26/2022
+    react video to 1:42
     
