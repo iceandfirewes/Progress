@@ -32,4 +32,6 @@
     learning react with https://www.youtube.com/watch?v=bMknfKXIFA8&t=2532s
 10/26/2022
     react video to 1:42
+10/27/2022
+    react
     
