@@ -38,4 +38,6 @@
     react
 10/31/2022
     react video to 2:20
+11/1/2022
+    finish a business card page from the react video
     
