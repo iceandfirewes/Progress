@@ -44,4 +44,9 @@
     react
 11/4/2022
     react
+11/5/2022
+    react
+11/7/2022
+    finish the solo project from the video using react. look something like this https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1
+
     
