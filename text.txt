@@ -76,4 +76,6 @@
     react. finish one of project called tenzie. will upload
 11/26/2022
     bug fixes and learn to upload with netlify. working link to tenzies https://dynamic-chaja-321c37.netlify.app/
+11/29/2022
+    react
     
