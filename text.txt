@@ -84,4 +84,6 @@
     react
 12/2/2022
     react
+12/6/2022
+    learning how to run react locally. thought about an simple web app for maplestory
     
