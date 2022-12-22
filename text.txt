@@ -88,4 +88,6 @@
     learning how to run react locally. thought about an simple web app for maplestory
 12/12/2022
     working on the loot timer for ms. will show progress later
+12/22/2022
+    loot timer is uploaded and running. research a bit on .net
     
