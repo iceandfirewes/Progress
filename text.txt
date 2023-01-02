@@ -90,4 +90,6 @@
     working on the loot timer for ms. will show progress later
 12/22/2022
     loot timer is uploaded and running. research a bit on .net
+1/2/2022
+    starting working on a craftbound website
     
