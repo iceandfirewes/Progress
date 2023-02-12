@@ -92,4 +92,5 @@
     loot timer is uploaded and running. research a bit on .net
 1/2/2022
     starting working on a craftbound website
-    
+2/11/2023
+    working on a python program
