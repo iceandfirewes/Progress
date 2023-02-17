@@ -94,3 +94,5 @@
     starting working on a craftbound website
 2/11/2023
     working on a python program
+2/16/2023
+    did the basic template, will upload tommorow
