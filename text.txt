@@ -96,3 +96,5 @@
     working on a python program
 2/16/2023
     did the basic template, will upload tommorow
+2/19/2023
+    worked on the app
