@@ -100,3 +100,5 @@
     worked on the app
 2/20/2023
     worked on the app
+2/21/2023
+    finally figure out how to do password -> key using sha256 and then use the key for aes encryption
